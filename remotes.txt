@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/goskiplist (fetch)
+origin	git@github.com:skyportsystems/goskiplist (push)
+upstream	https://github.com/ryszard/goskiplist.git (fetch)
+upstream	https://github.com/ryszard/goskiplist.git (push)
